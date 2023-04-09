@@ -1,4 +1,4 @@
-[Revising the Select Query I]
+### Пересмотр выбора запроса I [Revising the Select Query I]
 
 <img src="./PIc/1.png" alt="solution" >
 
@@ -10,4 +10,7 @@ The CITY table is described as follows:
 
 Language : MS SQL
 
+#### код с пояснениями:
+```sql
 select * from CITY where CITY.POPULATION > 100000 and CITY.COUNTRYCODE ='USA'
+```
