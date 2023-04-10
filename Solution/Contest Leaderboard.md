@@ -1,6 +1,6 @@
 ### Contest Leaderboard
 
-<img src="../PIc/1.png" alt="solution">
+<img src="../PIc/60.png" alt="solution">
 
 
 #### Topic:
