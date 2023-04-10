@@ -1,6 +1,6 @@
 ### Symmetric Pairs
 
-<img src="../PIc/1.png" alt="solution">
+<img src="../PIc/59.png" alt="solution">
 
 
 #### Topic:
