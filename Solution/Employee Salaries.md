@@ -1,6 +1,6 @@
 ### Employee Salaries 
 
-<img src="../PIc/19.png" alt="solution">
+<img src="../PIc/20.png" alt="solution">
 
 
 #### Topic:
