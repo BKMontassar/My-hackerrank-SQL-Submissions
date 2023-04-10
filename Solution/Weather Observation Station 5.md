@@ -1,6 +1,6 @@
 ### Weather Observation Station 5 
 
-<img src="../PIc/9.png" alt="solution">
+<img src="../PIc/10.png" alt="solution">
 
 
 #### Topic:
