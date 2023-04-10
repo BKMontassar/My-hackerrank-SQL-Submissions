@@ -1,6 +1,6 @@
 ### Weather Observation Station 10
 
-<img src="../PIc/15.png" alt="solution">
+<img src="../PIc/16.png" alt="solution">
 
 
 #### Topic:
@@ -10,7 +10,8 @@ where LAT_N is the northern latitude and LONG_W is the western longitude.
 
 
 #### Language : MS SQL
-```sqlSELECT DISTINCT CITY
+```sql
+SELECT DISTINCT CITY
 FROM STATION
 WHERE CITY NOT LIKE '%A' 
 AND CITY NOT LIKE '%E' 
